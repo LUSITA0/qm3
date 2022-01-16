@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcfc1e843bb9A77cAFCE36c0ce93DA1E06D412162",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcfc1e843bb9a77cafce36c0ce93da1e06d412162",
+  "NETWORK": {
+    "NAME": "Rinkebey",
+    "SYMBOL": "RKN",
+    "ID": 4
+  },
+  "NFT_NAME": "DENEME R1 QUEENS",
+  "SYMBOL": "QMNFT",
+  "MAX_SUPPLY": 12,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/denemer1",
+  "SHOW_BACKGROUND": true
+}
